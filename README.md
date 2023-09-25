@@ -1,0 +1,1 @@
+| 1 | [music_genre_classification](https://github.com/fortuna26/Workshop_Yandex_Practicum/blob/main/genre_music_classification/mgenre.ipynb))| Классификация жанров музыкальных треков для стримингового сервиса "МиФаСоль" | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost |
