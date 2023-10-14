@@ -8,6 +8,7 @@ WORKDIR /app
 COPY requirements.txt requirements.txt
 
 # Install the required packages
+RUN apt-get update -qq && apt-get install libgomp1
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
